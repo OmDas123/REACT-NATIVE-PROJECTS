@@ -14,6 +14,7 @@ Here is a list of the projects currently available in this repository. Click on 
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
+
 1.| **[Background Generator]** | A dynamic tool to generate and preview custom CSS background gradients and colors. | HTML, CSS, JS / React |   
 
 
