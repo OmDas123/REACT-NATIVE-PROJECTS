@@ -14,8 +14,10 @@ Here is a list of the projects currently available in this repository. Click on 
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Background Generator]** | A dynamic tool to generate and preview custom CSS background gradients and colors. | HTML, CSS, JS / React | 
-| **[Password Generator](./pass-gen** | A secure, customizable password generator with options for length, symbols, and numbers. | React, Vite, Tailwind |
+1.| **[Background Generator]** | A dynamic tool to generate and preview custom CSS background gradients and colors. | HTML, CSS, JS / React |   
+
+
+2.| **[Password Generator](./pass-gen** | A secure, customizable password generator with options for length, symbols, and numbers. | React, Vite, Tailwind |
 
 
 ---
