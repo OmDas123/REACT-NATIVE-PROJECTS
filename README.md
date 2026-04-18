@@ -15,13 +15,13 @@ Here is a list of the projects currently available in this repository. Click on 
 | Project Name | Description | Tech Stack |
 
 
-1.| **[Background Generator]** | A dynamic tool to generate and preview custom CSS background gradients and colors. | HTML, CSS, JS / React |   
+1. | **[Background Generator]** | A dynamic tool to generate and preview custom CSS background gradients and colors. | HTML, CSS, JS / React |   
 
 
-2.| **[Password Generator]** | A secure, customizable password generator with options for length, symbols, and numbers. | React, Vite, Tailwind |
+2. | **[Password Generator]** | A secure, customizable password generator with options for length, symbols, and numbers. | React, Vite, Tailwind |
 
 
-3. | **[Currency Converter]** | A responsive, real-time currency converter featuring a modern glassmorphism design, swap functionality, and live exchange rates. | React, Vite, Tailwind |
+3. | **[Currency Converter]** | A responsive, real-time currency converter featuring a modern glassmorphism design, swap functionality, and live exchange rates. |      React, Vite, Tailwind |
 
  
 
