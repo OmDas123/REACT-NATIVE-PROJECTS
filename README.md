@@ -23,6 +23,9 @@ Here is a list of the projects currently available in this repository. Click on 
 
 3. | **[Currency Converter]** | A responsive, real-time currency converter featuring a modern glassmorphism design, swap functionality, and live exchange rates. |      React, Vite, Tailwind |
 
+
+4. | **[TO-DO Manager]** | A clean, intuitive task management app to add, edit, and organize daily goals efficiently. |
+
  
 
 ## 🛠️ Tech Stack & Tools
